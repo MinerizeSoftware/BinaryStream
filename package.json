@@ -1,0 +1,15 @@
+{
+  "name": "minerize-binarystream",
+  "version": "1.0.0",
+  "description": "BinaryStream for a Minerize Software.",
+  "main": "src/BinaryStream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JblusItsMe",
+  "keywords": [
+    "minerize",
+    "minerize binarystream"
+  ],
+  "license": "MIT"
+}
